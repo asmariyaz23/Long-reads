@@ -1,4 +1,4 @@
-# Long-reads
+# ONT Long-reads (SV calling and assembly)
 ```
 usage: minion_pipeline.py [-h] --input_path FASTQ_PATH --save_path OUTPUT_DIR
                           [--find_structural_variants] [--resources RESOURCES]
