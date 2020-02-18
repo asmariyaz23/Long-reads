@@ -1,4 +1,5 @@
 # Long-reads
+```
 usage: minion_pipeline.py [-h] --input_path FASTQ_PATH --save_path OUTPUT_DIR
                           [--find_structural_variants] [--resources RESOURCES]
                           [--run_assembly]
@@ -15,3 +16,4 @@ required arguments:
   --resources RESOURCES
                         Resource location
   --run_assembly        Include argument to run assembly program
+ ```
